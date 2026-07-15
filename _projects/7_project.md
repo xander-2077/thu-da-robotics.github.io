@@ -10,7 +10,7 @@ related_publications: true
 
 ## Dynamic Legged Ball Manipulation on Rugged Terrains with Hierarchical Reinforcement Learning
 
-{% cite zhu2026dribble %}
+{% cite zhu2026dynamic %}
 [[Website](https://dribble-hrl.github.io/)]
 
 <div class="embed-responsive embed-responsive-16by9 rounded z-depth-1 mt-3 mb-3">
