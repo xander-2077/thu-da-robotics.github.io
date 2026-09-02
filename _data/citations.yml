@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-14'
+  last_updated: '2026-09-02'
 papers:
   6EIX-JQAAAAJ:-FonjvnnhkoC:
     citations: 0
@@ -10,7 +10,7 @@ papers:
     title: 'Ultrahit: A hierarchical transformer architecture for generalizable internal carotid artery robotic ultrasonography'
     year: '2025'
   6EIX-JQAAAAJ:0EnyYjriUFMC:
-    citations: 125
+    citations: 126
     title: Dynamic trapping and manipulation of biological cells with optical tweezers
     year: '2013'
   6EIX-JQAAAAJ:0N-VGjzr574C:
@@ -34,7 +34,7 @@ papers:
     title: 'Reach then see: A new adaptive controller for robot manipulator based on dual task-space information'
     year: '2010'
   6EIX-JQAAAAJ:2tRrZ1ZAMYUC:
-    citations: 30
+    citations: 35
     title: Towards expert-level autonomous carotid ultrasonography with large-scale learning-based robotic system
     year: '2025'
   6EIX-JQAAAAJ:3fE2CSJIrl8C:
@@ -42,7 +42,7 @@ papers:
     title: Optical manipulation of biological cell without measurement of cell velocity
     year: '2013'
   6EIX-JQAAAAJ:3htObqc8RwsC:
-    citations: 106
+    citations: 107
     title: Hybrid robotic grasping with a soft multimodal gripper and a deep multistage learning scheme
     year: '2023'
   6EIX-JQAAAAJ:43bX7VzcjpAC:
@@ -74,7 +74,7 @@ papers:
     title: Adaptive vision-based control of redundant robots with null-space interaction for human-robot collaboration
     year: '2022'
   6EIX-JQAAAAJ:4xDN1ZYqzskC:
-    citations: 13
+    citations: 15
     title: Analyzing key objectives in human-to-robot retargeting for dexterous manipulation
     year: '2026'
   6EIX-JQAAAAJ:5MTHONV0fEkC:
@@ -82,7 +82,7 @@ papers:
     title: "Data\u2010Driven Modeling and High\u2010Precision Tracking Control of a Soft Continuum Manipulator: Enabling Robotic Sorting of Multiwire Cables"
     year: '2024'
   6EIX-JQAAAAJ:5icHVeHT4IsC:
-    citations: 30
+    citations: 31
     title: 'Contact-implicit model predictive control for dexterous in-hand manipulation: A long-horizon and robust approach'
     year: '2024'
   6EIX-JQAAAAJ:5nxA0vEk-isC:
@@ -110,7 +110,7 @@ papers:
     title: A unified controller for region-reaching and deforming of soft objects
     year: '2018'
   6EIX-JQAAAAJ:8k81kl-MbHgC:
-    citations: 107
+    citations: 108
     title: Adaptive neural network control of robot based on a unified objective bound
     year: '2013'
   6EIX-JQAAAAJ:8xutWZnSdmoC:
@@ -118,11 +118,11 @@ papers:
     title: Hierarchical learning and control for in-hand micromanipulation using multiple laser-driven micro-tools
     year: '2022'
   6EIX-JQAAAAJ:9c2xU6iGI7YC:
-    citations: 68
+    citations: 69
     title: Shape control of deformable linear objects with offline and online learning of local linear deformation models
     year: '2022'
   6EIX-JQAAAAJ:9pM33mqn1YgC:
-    citations: 187
+    citations: 188
     title: Efficient PID tracking control of robotic manipulators driven by compliant actuators
     year: '2018'
   6EIX-JQAAAAJ:9yKSN-GCB0IC:
@@ -166,7 +166,7 @@ papers:
     title: Cooperative optical trapping and manipulation of multiple cells with robot tweezers
     year: '2016'
   6EIX-JQAAAAJ:DJbcl8HfkQkC:
-    citations: 33
+    citations: 34
     title: Adaptive intention-driven variable impedance control for wearable robots with compliant actuators
     year: '2022'
   6EIX-JQAAAAJ:DUooU5lO8OsC:
@@ -178,7 +178,7 @@ papers:
     title: 'A simple trapping and manipulation method of biological cell using robot-assisted optical tweezers: Singular perturbation approach'
     year: '2016'
   6EIX-JQAAAAJ:Ehil0879vHcC:
-    citations: 29
+    citations: 30
     title: Generalizable whole-body global manipulation of deformable linear objects by dual-arm robot in 3-d constrained environments
     year: '2025'
   6EIX-JQAAAAJ:F1b5ZUV5XREC:
@@ -214,7 +214,7 @@ papers:
     title: Robot-assisted optical trapping and manipulation of a biological cell with stochastic perturbations
     year: '2016'
   6EIX-JQAAAAJ:HeT0ZceujKMC:
-    citations: 5
+    citations: 6
     title: Laser-actuated multi-fingered hand for dexterous manipulation of micro-objects
     year: '2023'
   6EIX-JQAAAAJ:HtEfBTGE9r8C:
@@ -230,7 +230,7 @@ papers:
     title: Intention-driven variable impedance control for physical human-robot interaction
     year: '2021'
   6EIX-JQAAAAJ:IUKN3-7HHlwC:
-    citations: 420
+    citations: 424
     title: Challenges and outlook in robotic manipulation of deformable objects
     year: '2022'
   6EIX-JQAAAAJ:IjCSPb-OGe4C:
@@ -242,11 +242,11 @@ papers:
     title: Coordinate-free control for the isoline tracking of an unknown scalar field
     year: '2023'
   6EIX-JQAAAAJ:LO7wyVUgiFcC:
-    citations: 8
+    citations: 9
     title: Adaptive impedance control for compliantly actuated robots with a unified safety measure
     year: '2018'
   6EIX-JQAAAAJ:LgRImbQfgY4C:
-    citations: 8
+    citations: 9
     title: Non-contact dexterous micromanipulation with multiple optoelectronic robots
     year: '2025'
   6EIX-JQAAAAJ:LhH-TYMQEocC:
@@ -258,7 +258,7 @@ papers:
     title: A simple setpoint controller for dynamic manipulation of biological cells using optical tweezers
     year: '2013'
   6EIX-JQAAAAJ:NXb4pA-qfm4C:
-    citations: 11
+    citations: 12
     title: Development of an autonomous sanding robot with structured-light technology
     year: '2019'
   6EIX-JQAAAAJ:NyGDZy8z5eUC:
@@ -282,11 +282,11 @@ papers:
     title: Fine-grained few shot learning with foreground object transformation
     year: '2021'
   6EIX-JQAAAAJ:OcBU2YAGkTUC:
-    citations: 47
+    citations: 49
     title: A coarse-to-fine framework for dual-arm manipulation of deformable linear objects with whole-body obstacle avoidance
     year: '2023'
   6EIX-JQAAAAJ:P7Ujq4OLJYoC:
-    citations: 43
+    citations: 46
     title: 'Learning to assist different wearers in multitasks: efficient and individualized human-in-the-loop adaptation framework for lower-limb exoskeleton'
     year: '2024'
   6EIX-JQAAAAJ:PVgj2kMGcgYC:
@@ -382,7 +382,7 @@ papers:
     title: Vision-based robotic grasping and manipulation of USB wires
     year: '2018'
   6EIX-JQAAAAJ:_OXeSy2IsFwC:
-    citations: 14
+    citations: 15
     title: Contact-aware non-prehensile manipulation for object retrieval in cluttered environments
     year: '2023'
   6EIX-JQAAAAJ:_axFR9aDTf0C:
@@ -406,7 +406,7 @@ papers:
     title: Observer based optical manipulation of biological cells
     year: '2013'
   6EIX-JQAAAAJ:artPoR2Yc-kC:
-    citations: 2
+    citations: 3
     title: "Visual attention based cognitive human\u2013robot collaboration for pedicle screw placement in robot-assisted orthopedic surgery"
     year: '2024'
   6EIX-JQAAAAJ:bKqednn6t2AC:
@@ -422,7 +422,7 @@ papers:
     title: Cooperative robotic soldering of flexible PCBs
     year: '2017'
   6EIX-JQAAAAJ:cWzG1nlazyYC:
-    citations: 123
+    citations: 127
     title: 'Global Model Learning for Large Deformation Control of Elastic Deformable Linear Objects: An Efficient and Adaptive Approach'
     year: '2022'
   6EIX-JQAAAAJ:d1gkVwhDpl0C:
@@ -442,7 +442,7 @@ papers:
     title: Multi-modal interaction control of ultrasound scanning robots with safe human guidance and contact recovery
     year: '2023'
   6EIX-JQAAAAJ:fbc8zXXH2BUC:
-    citations: 73
+    citations: 77
     title: 'When vision meets touch: A contemporary review for visuotactile sensors from the signal processing perspective'
     year: '2024'
   6EIX-JQAAAAJ:foquWX3nUaYC:
@@ -458,7 +458,7 @@ papers:
     title: Vision-based detection and real-time adaptive control schemes for autonomous ultrasound scanning robots
     year: '2024'
   6EIX-JQAAAAJ:hCrLmN-GePgC:
-    citations: 223
+    citations: 225
     title: "Adaptive human\u2013robot interaction control for robots driven by series elastic actuators"
     year: '2016'
   6EIX-JQAAAAJ:jL-93Qbq4QoC:
@@ -473,8 +473,12 @@ papers:
     citations: 0
     title: Uncalibrated vision-based control for optical manipulation of microscopic particles.
     year: '2013'
+  6EIX-JQAAAAJ:kVjdVfd2voEC:
+    citations: 0
+    title: 'AIA-UltraNeRF: Acoustic-Impedance-Aware Neural Radiance Field with Hash Encodings for Robotic Ultrasound Reconstruction and Localization'
+    year: '2026'
   6EIX-JQAAAAJ:kh2fBNsKQNwC:
-    citations: 204
+    citations: 207
     title: Iterative learning impedance control for rehabilitation robots driven by series elastic actuators
     year: '2018'
   6EIX-JQAAAAJ:lgwcVrK6X84C:
@@ -486,7 +490,7 @@ papers:
     title: Development of a vision-based robotic manipulation system for transferring of oocytes
     year: '2021'
   6EIX-JQAAAAJ:mlAyqtXpCwEC:
-    citations: 19
+    citations: 20
     title: Meta-reinforcement learning with dynamic adaptiveness distillation
     year: '2021'
   6EIX-JQAAAAJ:nVrZBo8bIpAC:
@@ -510,7 +514,7 @@ papers:
     title: 'Multiple task-space robot control: Sense locally, act globally'
     year: '2012'
   6EIX-JQAAAAJ:r_AWSJRzSzQC:
-    citations: 39
+    citations: 41
     title: Learning to estimate 3-d states of deformable linear objects from single-frame occluded point clouds
     year: '2023'
   6EIX-JQAAAAJ:rmuvC79q63oC:
@@ -530,7 +534,7 @@ papers:
     title: 3d slam applied to an autonomous interior finishing robot
     year: '2018'
   6EIX-JQAAAAJ:tH6gc1N1XXoC:
-    citations: 8
+    citations: 10
     title: A unified interaction control framework for safe robotic ultrasound scanning with human-intention-aware compliance
     year: '2024'
   6EIX-JQAAAAJ:u-coK7KVo8oC:
@@ -538,23 +542,27 @@ papers:
     title: Design of a Multitask and Terrestrial Robot Challenge for Course Project of Intelligent Robots
     year: Unknown Year
   6EIX-JQAAAAJ:uDGL6kOW6j0C:
-    citations: 5
+    citations: 6
     title: 'Ultradp: Generalizable carotid ultrasound scanning with force-aware diffusion policy'
     year: '2025'
   6EIX-JQAAAAJ:ubry08Y2EpUC:
-    citations: 25
+    citations: 29
     title: 'Vlsa: Vision-language-action models with plug-and-play safety constraint layer'
     year: '2025'
   6EIX-JQAAAAJ:umqufdRvDiIC:
     citations: 6
     title: Vision-based adaptive impedance control for robotic polishing
     year: '2019'
+  6EIX-JQAAAAJ:v1_lew4L6wgC:
+    citations: 0
+    title: Coverage Planning for Robotic Tooth Preparation in Densely Constrained Environments
+    year: '2026'
   6EIX-JQAAAAJ:vDZJ-YLwNdEC:
     citations: 12
     title: Efficient model learning and adaptive tracking control of magnetic micro-robots for non-contact manipulation
     year: '2024'
   6EIX-JQAAAAJ:wMgC3FpKEyYC:
-    citations: 13
+    citations: 14
     title: 'Upper-limb rehabilitation with a dual-mode individualized exoskeleton robot: A generative-model-based solution'
     year: '2025'
   6EIX-JQAAAAJ:xtoqd-5pKcoC:
@@ -562,7 +570,7 @@ papers:
     title: Region control for robots driven by series elastic actuators
     year: '2016'
   6EIX-JQAAAAJ:yFnVuubrUp4C:
-    citations: 10
+    citations: 11
     title: Development of an automated system for the soldering of USB cables
     year: '2023'
   6EIX-JQAAAAJ:yMeIxYmEMEAC:
@@ -570,7 +578,7 @@ papers:
     title: Contact-Aware Non-prehensile Robotic Manipulation for Object Retrieval in Cluttered Environments
     year: '2023'
   6EIX-JQAAAAJ:yqoGN6RLRZoC:
-    citations: 9
+    citations: 10
     title: Multi-modal learning and relaxation of physical conflict for an exoskeleton robot with proprioceptive perception
     year: '2023'
   6EIX-JQAAAAJ:zCSUwVk65WsC:
