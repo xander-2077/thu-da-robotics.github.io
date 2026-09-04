@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-09-02'
+  last_updated: '2026-09-04'
 papers:
   6EIX-JQAAAAJ:-FonjvnnhkoC:
     citations: 0
@@ -422,7 +422,7 @@ papers:
     title: Cooperative robotic soldering of flexible PCBs
     year: '2017'
   6EIX-JQAAAAJ:cWzG1nlazyYC:
-    citations: 127
+    citations: 128
     title: 'Global Model Learning for Large Deformation Control of Elastic Deformable Linear Objects: An Efficient and Adaptive Approach'
     year: '2022'
   6EIX-JQAAAAJ:d1gkVwhDpl0C:
@@ -546,7 +546,7 @@ papers:
     title: 'Ultradp: Generalizable carotid ultrasound scanning with force-aware diffusion policy'
     year: '2025'
   6EIX-JQAAAAJ:ubry08Y2EpUC:
-    citations: 29
+    citations: 30
     title: 'Vlsa: Vision-language-action models with plug-and-play safety constraint layer'
     year: '2025'
   6EIX-JQAAAAJ:umqufdRvDiIC:
